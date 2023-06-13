@@ -11,7 +11,7 @@ body {
 }
 
 .banner {
-  background-image: url(https://steptodown.com/istock-downloader/images/steptodown.com427855.jpg);
+  background-image: url("images/banner.jpg");
   background-size: cover;
   background-position: center center;
   height: 700px; /* Set the height of the banner */
