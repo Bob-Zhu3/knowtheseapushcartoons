@@ -14,7 +14,7 @@ body {
   background-image: url("images/banner.jpg");
   background-size: cover;
   background-position: center center;
-  height: 700px; /* Set the height of the banner */
+  height: 800px;
   position: fixed;
   top: 0;
   left: 0;
@@ -42,7 +42,7 @@ body {
 }
 
 #downSymbol {
-  top: 700px;
+  top: 760px;
   left: 730px;
   font-size: 150px;
 }
@@ -52,7 +52,7 @@ body {
   height: 6500px;
   position: relative;
   background: #fff;
-  top: 700px;
+  top: 763px;
   display: flex;
   justify-content: center;
 }
